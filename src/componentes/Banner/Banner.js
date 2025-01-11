@@ -7,11 +7,11 @@ export default function Banner() {
         <section className="banner">
             <div className="apresentacao">
                 <h1 className="titulo">
-                    Olá, Mundo!
+                    Hello, World!
                 </h1>
 
                 <p className="paragrafo">
-                    Boas vindas ao meu espaço pessoal! Eu sou Douglas Araujo, aluno de Front-end da Alura. Aqui compartilho mais um projeto com meus conhecimentos em React, espero que aprenda algo novo :)
+                    Boas vindas ao meu espaço pessoal! Eu sou Douglas Araujo, aluno de Front-end da Alura. Aqui compartilho mais um projeto com meus conhecimentos em React, espero que aprenda algo novo e curta o projeto :)
                 </p>
             </div>
 

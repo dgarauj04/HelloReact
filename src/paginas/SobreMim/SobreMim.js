@@ -8,7 +8,7 @@ function SobreMim() {
 
     <h3 className="subtitulo">Olá, sou o Douglas!</h3>
 
-    <img src="url(https://github.comdgarauj04.png)" alt="minha foto do github" className="fotoSobreMim"/>
+    <img src="https://github.com/dgarauj04.png" alt="minha foto do github" className="fotoSobreMim"/>
     
             <p className="paragrafo">
 Oi, tudo bem? Sou um estudante da formação Front-end na Alura e quero expressar minha gratidão por ter a oportunidade de aprender em uma plataforma tão incrível e completa.  
